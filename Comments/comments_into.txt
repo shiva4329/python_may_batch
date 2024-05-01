@@ -1,0 +1,9 @@
+Comments :
+            comments are used to explain python code
+            comments are used to make the code more readable
+            comments are used to prevent code execution when we dosent require the particular lines
+
+types : 2 types 
+
+            1 : single line comment --> symbol = #(hash)
+            2 : multi-line comment ---> symbol = ''' ........ '''/""" ...... """(triple quotes begining and ending)
