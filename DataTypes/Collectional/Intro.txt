@@ -1,0 +1,59 @@
+# collection datatypes mean group of values
+
+
+# in python 4 types of colllectionla datatypes
+
+
+1. List
+2. Tuple
+3. Set
+4. Dictionary
+
+
+# what is index -- position of values
+# two types of indexes -- forward ----> starts from left to right ---> from 0 value
+                            backward ----> starts from right to left ---> from -1 value
+
+
+
+# List
+
+    list represent in []
+    list is a mutable(changebale)
+    list follows index
+    list allows homogenous(same datatype) values and heterogeneous(diff datatypes) values
+    list allows duplicates
+    list function is -- list()
+
+
+
+
+# Tuple
+
+    tuple represent in ()
+    tuple is a im-mutable(un-changebale)
+    tuple follows index
+    tuple allows homogenous(same datatype) values and heterogeneous(diff datatypes) values
+    tuple allows duplicates
+    tuple function is -- tuple()
+
+
+
+# Set
+
+    set represent in {}
+    set is immutable
+    set doesnot follows index
+    set allows homogenous(same datatype) values and heterogeneous(diff datatypes) values
+    set doesnot allows duplicates
+    set function is -- set()
+
+
+
+# Dictionary
+
+    Dictionary represented in {key:value}
+    Dictionary is mutable
+    dict doesnot follows index
+    Dictionary does not allow duplicate keys but allows duplicate values
+    Dictionary fn is -- dict()
