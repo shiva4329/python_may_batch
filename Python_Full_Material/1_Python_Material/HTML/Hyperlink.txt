@@ -1,0 +1,7 @@
+!--<Anchor>: this tag is for hiperlinks--
+
+<html>
+<body bgcolor="pink">
+	<a href="HTML2.html"> <b><i><u><font color="red">click here </b></u></i></font>to view the details</a>
+</body>
+</html>

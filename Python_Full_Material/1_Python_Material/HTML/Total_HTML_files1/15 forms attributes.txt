@@ -1,0 +1,27 @@
+
+
+
+Form Tag has got 3 attributes 
+1)NAme : the name of the form
+2)action: whenwver we enter details and submit the form , all the details 
+          will be submitted to the destination url specified 
+3)method: we have 2 methods----->i.get
+                                 ii.post
+
+these methods are used for transfering data.
+if u wont specify any method by defsult it is get method
+ex: 
+
+<form name="form1" action="url" method="get/post"
+.............
+.............
+.............
+.............
+</form>
+
+
+
+
+
+
+

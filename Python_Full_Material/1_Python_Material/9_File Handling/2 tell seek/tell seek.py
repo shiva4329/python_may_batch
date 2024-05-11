@@ -1,0 +1,14 @@
+#tell() : tells where currently the cursor is
+#seek() :moving the cursor to desired position
+f=open("sample.txt")
+print(f.tell())  #tells the current cursor position
+print(f.read())
+print(f.tell())
+f.seek(8)      #moving the cursor to desired position
+print(f.tell())
+print(f.read())
+print(f.tell())
+f.seek(11)
+print(f.read(4)) #reads 4 characters from current position
+f.close() 
+

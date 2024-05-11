@@ -1,0 +1,7 @@
+#creating MYSQL DigitalNest databse using python scripting
+import pymysql
+con=pymysql.connect('localhost','root','43294329')
+cur1=con.cursor()
+cur1.execute('create database DigitalNest0')
+cur1.close()
+con.close()

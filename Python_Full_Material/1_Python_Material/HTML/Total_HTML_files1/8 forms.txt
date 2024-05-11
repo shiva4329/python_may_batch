@@ -1,0 +1,48 @@
+
+
+Forms: using this forms the user can easily interact with webpage.
+
+using the forms, we can submit the data to the server
+
+A form has got many components such as
+1.textield
+2.Textarea
+3.Radio button
+4.Checkbox
+5.button/Submit
+6.select(listbox)
+
+ex:
+<html>
+<body>
+<form name="form1">
+ ...............
+ ...............
+.................
+</form>
+</body>
+</html>
+
+<input> :This tag is used for creating the various html components
+input tag has got the following attributes
+i)type:   type of component
+ii)size:  size of the component
+iii)name: name for the component
+iv)value : default value
+
+
+1)Textfield:  for entering single line of text
+  <input type="text"> ------->for creating a textfield
+
+2)Password:
+  <input type="password">---->for creating a password
+
+
+3)Textarea :  for entering multiple lines of Text
+ex:for address ,for description etc
+
+
+
+
+
+

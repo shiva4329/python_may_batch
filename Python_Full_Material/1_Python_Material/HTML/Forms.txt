@@ -1,0 +1,46 @@
+Forms:using this forms user can easily interact with webpage.
+using this we can submit the data to the server.
+
+A form has many componets such as:
+	1.textield
+	2.Textarea
+	3.Radio button
+	4.Check box
+	5.Button/submit
+	6.select(listbox)
+
+
+EX:
+	<html>
+	<body>
+	<form name ="form1">
+	.......................
+	.......................
+	.......................
+	</form>
+	</body>
+	</html>
+
+<input>: this tag is used for creating the various html components
+imput tag has got following attributes 
+	1.type: type of component
+	2.size: size of the component
+	3.name: name for the component
+	4.value:default value
+
+
+1.txtfield:
+	<input type="text">----------->for creating a textfield
+2.password:
+	<input type="password">-------->for creating a password
+3.textarea: for entering multiple lines of text
+	Ex: for address,discription...etc,
+------------------------------------------------------------------------
+
+Form: this tags ahs 3 attributes:
+
+	1.Name: the name of form
+	2.Action: whenever we enter details and submit the form, all the details will be submitted to the
+	 
+
+
