@@ -1,8 +1,5 @@
 # tuple function and methods
 
-
-
-
 x = (10,20,30,40)
 
 print(len(x))
@@ -29,3 +26,17 @@ print(reversed(x))
 
 # assignment
 
+
+
+del x
+
+# print(x)
+
+
+# below methods will not work in tuple because of tuple is immutable
+
+# append()
+# insert()
+# pop()
+# clear()
+# remove()
