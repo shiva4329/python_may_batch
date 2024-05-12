@@ -12,13 +12,13 @@
 
 # set defining
 
-x = {} # if wehen we are giving empty set it will give as empty dictionary
+x = {} # if wehen we are giving empty set it will return as empty dictionary
 
 print(x,type(x))
 
 
 
-x = set()
+x = set() # returns empty set
 
 print(x,type(x))
 
