@@ -1,0 +1,66 @@
+
+operators --> which can perform particular operations by using operends(like addition,substraction,multiplication....)
+
+
+# ex : x+y -: operends are x,y
+            -: operator +
+
+
+# types of operators in python
+# 6 types
+
+    1. arthimatic operators
+    2. assignment operators
+    3. comparison operators
+    4. logical operators
+    5. membership operators
+    6. identity operators
+
+
+
+1. arthimatic operators
+
+    addition : +
+    substraction -: -
+    multiplication -: *
+    division ---: / (returns co-efficient with decimal point) like 2.0
+    floor division -: // (returns co-efficient with out decimal point) like 2
+    modulus -: % (returns reminder)
+    exponent -: **
+
+2. assignment operators
+
+    assign : =
+    addition assign -: +=
+    sub assign --: -=
+    multiplication assign --: *=
+    division assign --: /=
+    floor assign -: //=
+    modulus assign -: %=
+
+3. comparison operators
+
+    equals to ==
+    greater than  >
+    less than <
+    greater than equals : >=
+    less than equals : <=
+    not equals : !=
+
+4. logical operators
+
+    AND ----> T and F = F
+    OR ----> T or F = T
+    NOT ----> not T = F
+
+5. membership operators
+
+    in
+
+    not in
+
+6 .identity operators
+
+    is
+
+    is not
