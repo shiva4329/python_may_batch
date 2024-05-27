@@ -1,0 +1,11 @@
+# find if a number is even or not
+# even : x is even number
+#  odd : x is odd number
+
+# find if x is vowel or not
+# x = h
+
+
+# if a given year is leap year or not
+
+# x = 2024

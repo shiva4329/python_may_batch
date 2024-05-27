@@ -1,0 +1,22 @@
+Control structures : it will control the flow
+
+1. conditions
+2. loops
+
+
+
+1. conditions: if condition/expression is true allows the block of code to execute
+
+    if 
+    elif
+    else
+
+
+2.loops : nothing but iterations, runs till condition/expression false
+
+    for - loops through no of items
+    while - loops through untill condition is false
+
+    break - breaks the loop
+    continue - skips the current iteration
+    pass - does nothing
