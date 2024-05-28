@@ -9,3 +9,10 @@
 # if a given year is leap year or not
 
 # x = 2024
+
+
+
+# x = ['a','b','c','d'] find the vowels using both for and while loop
+# x = range(1,50) find the number which is divisible by 5 using both for and while loop
+# x = 101 check if palindrome or not
+# x = 'madam'check if palindrome or not
