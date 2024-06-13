@@ -11,7 +11,6 @@
 # while True:
 #     print('hello') # infnite loop
 
-
 # print hello 5 times uing while loop
 
 c = 0
