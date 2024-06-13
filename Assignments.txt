@@ -1,0 +1,5 @@
+ x = [10,30,50,20,40]
+ # sort the list in ascending order using for and while loop
+
+ x = [10,20,30,40]
+ # find the max and min number using for loop and while loop
